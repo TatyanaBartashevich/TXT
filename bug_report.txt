@@ -1,8 +1,8 @@
 Bug_reports: 
                  ID: 12
                  Title: On the main page, when you click on the logo, the page does not update
-                 Description:  Step1: Go to ozol.com website
-				                       Step2: Click on the page logo
+                 Description:   Step1: Go to ozol.com website
+				Step2: Click on the page logo
                  Expected result: Websire is updating
                  Actual result: Website is not updating
                  Version: iOS 16.1.1
