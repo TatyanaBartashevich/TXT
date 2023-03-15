@@ -1,0 +1,6 @@
+name - Tanya
+surname - Bartashevich
+age - 32
+namber_of_pets - 1
+desired_salary_in_the_future - 1000 usd
+
