@@ -1,0 +1,5 @@
+favorite_movie - The Martian
+favorite_series - The Big Bang Theory
+favorite_food - Paella
+favorite_season - Spring
+country_would_like_to_visit - Norway
